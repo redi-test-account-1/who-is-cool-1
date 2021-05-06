@@ -10,9 +10,7 @@ function App() {
   const [isCool, setIsCool] = useState(false)
 
   useEffect(()=>{
-    setIsCool(
-      COOL_NAMES.includes(name.toLocaleLowerCase())
-      )
+    setIsCool(COOL_NAMES.includes(name.toLocaleLowerCase()))
   },[name])
 
   const handleChange = (e) =>{
