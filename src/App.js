@@ -3,7 +3,9 @@ import './App.css';
 
 const COOL_NAMES = [
   'james',
-  'katie'
+  'katie',
+  'Isabelle'
+
 ]
 
 function App() {
