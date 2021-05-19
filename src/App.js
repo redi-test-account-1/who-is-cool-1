@@ -4,7 +4,8 @@ import './App.css';
 const COOL_NAMES = [
   'james',
   'katie',
-  'Isabelle'
+  'Isabelle',
+  'khouloud'
 
 ]
 
